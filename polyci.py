@@ -68,6 +68,3 @@ def help():
     for x in f.items():
         print("{} :: {}".format(x[0], x[1]))
     print()
-
-	
-input()	
